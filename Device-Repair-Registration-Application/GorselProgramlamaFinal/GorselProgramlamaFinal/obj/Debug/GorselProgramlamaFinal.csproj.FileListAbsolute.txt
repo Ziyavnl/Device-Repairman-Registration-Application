@@ -1,0 +1,10 @@
+C:\Users\pC\source\repos\GorselProgramlamaFinal\GorselProgramlamaFinal\bin\Debug\GorselProgramlamaFinal.exe.config
+C:\Users\pC\source\repos\GorselProgramlamaFinal\GorselProgramlamaFinal\bin\Debug\GorselProgramlamaFinal.exe
+C:\Users\pC\source\repos\GorselProgramlamaFinal\GorselProgramlamaFinal\bin\Debug\GorselProgramlamaFinal.pdb
+C:\Users\pC\source\repos\GorselProgramlamaFinal\GorselProgramlamaFinal\obj\Debug\GorselProgramlamaFinal.csproj.AssemblyReference.cache
+C:\Users\pC\source\repos\GorselProgramlamaFinal\GorselProgramlamaFinal\obj\Debug\GorselProgramlamaFinal.Form1.resources
+C:\Users\pC\source\repos\GorselProgramlamaFinal\GorselProgramlamaFinal\obj\Debug\GorselProgramlamaFinal.Properties.Resources.resources
+C:\Users\pC\source\repos\GorselProgramlamaFinal\GorselProgramlamaFinal\obj\Debug\GorselProgramlamaFinal.csproj.GenerateResource.cache
+C:\Users\pC\source\repos\GorselProgramlamaFinal\GorselProgramlamaFinal\obj\Debug\GorselProgramlamaFinal.csproj.CoreCompileInputs.cache
+C:\Users\pC\source\repos\GorselProgramlamaFinal\GorselProgramlamaFinal\obj\Debug\GorselProgramlamaFinal.exe
+C:\Users\pC\source\repos\GorselProgramlamaFinal\GorselProgramlamaFinal\obj\Debug\GorselProgramlamaFinal.pdb
