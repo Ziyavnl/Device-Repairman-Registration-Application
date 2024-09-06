@@ -18,3 +18,31 @@
 3. VIEW > Displays the data saved on SQL on the datagridview screen
 4. Clean > Clears the filled boxes
 5. DELETE > Deletes the desired data from the data in SQL Server information
+
+
+![photo1](https://github.com/Ziyavnl/Device-Repairman-Registration-Application/blob/main/photo/Screenshot_1.png)
+
+* our interface screen.
+
+__________________________________________________________________________________________________________________
+
+![photo2](https://github.com/Ziyavnl/Device-Repairman-Registration-Application/blob/main/photo/Screenshot_2.png)
+
+* code sections.
+
+___________________________________________________________________________________________________________________
+
+![photo3](https://github.com/Ziyavnl/Device-Repairman-Registration-Application/blob/main/photo/Screenshot_3.png)
+
+* code sections.
+
+___________________________________________________________________________________________________________________
+![photo4](https://github.com/Ziyavnl/Device-Repairman-Registration-Application/blob/main/photo/Screenshot_4.png)
+
+* SQL sections.
+
+  
+
+
+https://github.com/user-attachments/assets/120a3237-4359-477c-b10d-fe581ae57606
+
